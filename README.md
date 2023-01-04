@@ -1,16 +1,31 @@
-### Hi there 👋
+# Hi, I'm Omar 🖐
 
-<!--
-**OmarAshour02/OmarAshour02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: Omar Ashour](https://img.shields.io/badge/-Omar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanyarajhans/)](https://www.linkedin.com/in/omarashoour/)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/tanyarajhans?label=Follow&style=social)
+<img alt = "profile views" src="https://komarev.com/ghpvc/?username=omarashour02&color=brightgreen">  
+ -->
+<!-- ![Purple Gradient Geometric Technology Profile LinkedIn Banner  (1)](https://user-images.githubusercontent.com/61904667/146429293-82261303-fec5-4828-aeba-047883c76f02.png)
+ -->
 
-Here are some ideas to get you started:
+## 👨🏻‍💻 &nbsp;About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Computer science at Suez Canal University.
+
+💡 I'm a passionate problem solver with a love for algorithms and data structures with a passion for all things related to computer science and technology.
+
+ 
+
+🌐 In my free time, I love to delve deeper into the world of backend development and explore new programming languages and frameworks. I'm always eager to learn more and expand my knowledge and skills in this field. Follow my journey as I navigate through the exciting world of tech!
+
+✉️ &nbsp;You can shoot me an email at omarashour02@gmail.com! I'll try to respond as soon as I can.
+
+
+
+## Find me around the web 🌎 
+- Having fun on <a href="https://leetcode.com/Omar_Ashour/">LeetCode</a> 
+- Struggling on <a href="https://codeforces.com/profile/Ashouristic/">Codeforces</a> 
+
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
