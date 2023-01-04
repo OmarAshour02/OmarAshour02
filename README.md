@@ -15,13 +15,13 @@
 
 💡 I'm a passionate problem solver with a love for algorithms and data structures with a passion for all things related to computer science and technology.
 
- 
+🛑 ACPC finalist 
 
 🌐 In my free time, I love to delve deeper into the world of backend development and explore new programming languages and frameworks. I'm always eager to learn more and expand my knowledge and skills in this field. Follow my journey as I navigate through the exciting world of tech!
 
 ✉️ &nbsp;You can shoot me an email at omarashour02@gmail.com! I'll try to respond as soon as I can.
 
-
+📝 For more details about me & my work and voulunteering experience check my <a href="https://drive.google.com/file/d/1D8iHUnhyPs2_zIVenzlSgSpDC3tMBjg0/view?usp=sharing" target="blank"><strong>Resume</strong></a>.
 
 ## Find me around the web 🌎 
 - Having fun on <a href="https://leetcode.com/Omar_Ashour/">LeetCode</a> 
