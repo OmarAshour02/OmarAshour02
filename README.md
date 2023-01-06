@@ -27,5 +27,3 @@
 - Having fun on <a href="https://leetcode.com/Omar_Ashour/">LeetCode</a> 
 - Struggling on <a href="https://codeforces.com/profile/Ashouristic/">Codeforces</a> 
 
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/tanyarajhans/Actions/blob/output/github-contribution-grid-snake.svg)
