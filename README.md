@@ -11,7 +11,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Computer science at Suez Canal University.
+🎓 &nbsp;I'm a Computer science Graduate from Suez Canal University.
 
 💡 I'm a passionate problem solver with a love for algorithms and data structures with a passion for all things related to computer science and technology.
 
