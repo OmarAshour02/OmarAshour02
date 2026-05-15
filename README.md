@@ -19,7 +19,7 @@
 
 ✉️ &nbsp;You can shoot me an email at omarashour02@gmail.com! I'll try to respond as soon as I can.
 
-📝 For more details about me & my work and voulunteering experience check my <a href="https://drive.google.com/file/d/1iG537w2Bpfos_PSuqiIFMh7s-cvXEeaG/view?usp=sharing"><strong>Resume</strong></a>
+📝 For more details about me & my work and voulunteering experience check my <a href="https://drive.google.com/file/d/1iG537w2Bpfos_PSuqiIFMh7s-cvXEeaG/view?usp=drive_link"><strong>Resume</strong></a>
 ## Find me around the web 🌎 
 - Having fun on <a href="https://leetcode.com/Omar_Ashour/">LeetCode</a> 
 - Struggling on <a href="https://codeforces.com/profile/Ashouristic/">Codeforces</a> 
