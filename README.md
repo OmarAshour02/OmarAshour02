@@ -10,4 +10,4 @@
 
 ✉️ &nbsp;You can shoot me an email at omarashour02@gmail.com! I'll try to respond as soon as I can.
 
-📝 For more details about me & my work and voulunteering experience check my <a href="https://drive.google.com/file/d/1qDHwVRPoBvG78ZlG4fsN6V-sWE3-8Iq9/view?usp=sharing"><strong>Resume</strong></a>
+📝 For more details about me & my work and voulunteering experience check my <a href="https://github.com/OmarAshour02/resume/blob/main/Omar_Ashour_Resume.pdf"><strong>Resume</strong></a>
