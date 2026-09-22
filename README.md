@@ -14,7 +14,7 @@ Systems rabbit-hole enjoyer by night.
 ---
 
 [notes](https://notes.omarashour02.workers.dev/) ·
-[linkedin](https://www.linkedin.com/in/omarashour/) ·
+[linkedin](https://www.linkedin.com/in/omarashoour/) ·
 [x](https://x.com/AshourOps) ·
 [resume](https://github.com/OmarAshour02/resume/blob/main/Omar_Ashour_Resume.pdf) ·
 [email](mailto:omarashour02@gmail.com)
